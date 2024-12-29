@@ -1,6 +1,6 @@
 👋 Hi, I’m Arbazra
 
-Welcome to my GitHub profile! I’m a passionate Full Stack Web Developer specializing in PHP and Laravel. With a deep understanding of both front-end and back-end technologies, I thrive on creating robust and efficient web applications.
+Welcome to my GitHub profile! I’m a passionate Full Stack Web Developer specializing in PHP ,CodeIgniter and Laravel. With a deep understanding of both front-end and back-end technologies, I thrive on creating robust and efficient web applications.
 
 👀 I’m interested in
 
